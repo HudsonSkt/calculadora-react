@@ -1,6 +1,10 @@
+
+
 # Calculadora React
 
 Projeto desenvolvido durante a formação React Developer da DIO.
+
+<img width="532" height="432" alt="image" src="https://github.com/user-attachments/assets/5de26cb5-5da1-4d6c-acbe-142c283ab54b" />
 
 ## Tecnologias utilizadas
 
@@ -23,7 +27,6 @@ Projeto desenvolvido durante a formação React Developer da DIO.
 npm install
 npm start
 ```
-<img width="532" height="432" alt="image" src="https://github.com/user-attachments/assets/5de26cb5-5da1-4d6c-acbe-142c283ab54b" />
 
 
 ## Autor
